@@ -2,3 +2,9 @@
     color: white;
     margin-left: 20px;
 }
+
+.card{
+    margin-left: 25px;
+    margin-right: 50%;
+    background: yellow;
+}
